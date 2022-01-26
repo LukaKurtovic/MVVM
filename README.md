@@ -1,1 +1,1 @@
-# RMA-LV4
+# MVVM arhitektura i dohvacanje s API u kotlinu
